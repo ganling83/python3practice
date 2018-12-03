@@ -17,3 +17,4 @@ awesome-python3-webapp/  <-- 根目录
 +- LICENSE               <-- 代码LICENSE
 
 这是新的版本
+添加许可证信息：MIT
